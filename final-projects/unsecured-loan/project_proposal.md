@@ -50,6 +50,7 @@ ZKSNARKと信用情報機関を活用し、プライバシーを保護しなが�
 |-------:|:-----|
 | WU Yihsuan | システム要件定義、データセット用意、ZK回路設計 |
 | Masanari Gotoh | ZK回路設計、DEMO実装 |
+| Maruyame Shunpei | ZK回路設計、DEMO実装 |
 ## 5. Design & Architecture <!-- 全体設計や細部のアーキテクチャーを具体的に記載(成果物が実装の場合のみ) -->
 
 ### システムアーキテクチャ
